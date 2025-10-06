@@ -1,0 +1,5 @@
+Bingo,20,85
+Laura,22,90
+Erick,19,70
+Saul,21,95
+Luis,20,65
